@@ -1,6 +1,6 @@
 const timeLeft = document.getElementById('time-left')
 
-const birthday = new Date('07/29/2022')
+const birthday = new Date('08/22/2022')
 const second = 1000
 const minute = second * 60
 const hour = minute * 60
