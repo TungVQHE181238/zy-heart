@@ -28,8 +28,13 @@ h2 {
 	text-align: center;
 	margin-top: 220px;
 	font-family: 'Oswald', sans-serif;
+	font-size: 2em;
+	color:#ffad99;
 }
 
 #text {
-	margin-left: 250px;
+	margin-left: 112px;
+	color:#ffad99;
+	font-size:15px;
+	font-family:'Courier New', monospace;
 }
