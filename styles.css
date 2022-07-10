@@ -1,5 +1,4 @@
-body {
-	background-color: lightcoral;
+#time-left {
 	margin-top: 200px ;
 	color:  white;
 	text-align: center;
@@ -19,11 +18,11 @@ body {
     background-image: url(https://dunghm98.github.io/img/puung3.jpg);
     background-size: cover;
     background-position: 50%;
-    -webkit-filter: blur(4px);
+    -webkit-filter: blur(2px);
 }
 
 h1 {
-    font-size: 3em;
+    font-size: 4em;
     margin-block-start: 0.67em;
     margin-block-end: 0.67em;
     margin-inline-start: 0px;
