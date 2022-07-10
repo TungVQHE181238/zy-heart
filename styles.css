@@ -1,8 +1,10 @@
 #time-left {
-	margin-top: 242px ;
+	margin-top: 205px;
 	color:  white;
 	text-align: center;
 	font-family: 'Edu QLD Beginner', cursive;
+	font-size: 4em;
+	font-weight: bold;
 }
 
 #bg {
@@ -21,11 +23,7 @@
     -webkit-filter: blur(2px);
 }
 
-h1 {
-    font-size: 4em;
-    margin-block-start: 0.67em;
-    margin-block-end: 0.67em;
-    margin-inline-start: 0px;
-    margin-inline-end: 0px;
-    font-weight: bold;
+h2 {
+	margin-bottom: 13px;
+	text-align: center;
 }
