@@ -26,4 +26,10 @@
 h2 {
 	margin-bottom: 13px;
 	text-align: center;
+	margin-top: 220px;
+	font-family: 'Oswald', sans-serif;
+}
+
+#text {
+	margin-left: 250px;
 }
