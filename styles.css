@@ -29,12 +29,13 @@ h2 {
 	margin-top: 220px;
 	font-family: 'Oswald', sans-serif;
 	font-size: 2em;
-	color:#ffad99;
+	color:#fefdb0;
 }
 
 #text {
 	margin-left: 112px;
-	color:#ffad99;
+	margin-right: 112px;
+	color:#fefdb0;
 	font-size:15px;
 	font-family:'Courier New', monospace;
 }
