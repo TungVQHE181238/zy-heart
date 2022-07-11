@@ -2,9 +2,32 @@
 	margin-top: 205px;
 	color:  white;
 	text-align: center;
-	font-family: 'Edu QLD Beginner', cursive;
+	font-family: 'Lora', serif;
 	font-size: 4em;
 	font-weight: bold;
+}
+
+#time-left-Hp{
+	margin-top: 205px;
+	color: #f0fd1f;
+	text-align: center;
+	font-family: 'Lora', serif;
+	font-size: 56px;
+	font-weight: lighter;
+	margin-left: 88px;
+	margin-right: 88px;
+}
+
+#time-left-Hp1 {
+	margin-top: 205px;
+	margin-left: 88px;
+	margin-right: 88px;
+	margin-bottom: 246px;
+	color: #f0fd1f;
+	text-align: center;
+	font-family: 'Lora', serif;
+	font-size: 51px;
+	font-weight: lighter;
 }
 
 #bg {
@@ -25,16 +48,16 @@
 
 h2 {
 	margin-bottom: 13px;
+	margin-top: 170px;
 	text-align: center;
-	margin-top: 220px;
 	font-family: 'Oswald', sans-serif;
 	font-size: 2em;
 	color:#fefdb0;
 }
 
 #text {
-	margin-left: 112px;
-	margin-right: 112px;
+	margin-left: 104px;
+	margin-right: 104px;
 	color:#fefdb0;
 	font-size:15px;
 	font-family:'Courier New', monospace;
