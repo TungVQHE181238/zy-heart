@@ -2,7 +2,7 @@ const timeLeft = document.getElementById('time-left')
 const timeLeftHp = document.getElementById('time-left-Hp')
 const timeLeftHp1 = document.getElementById('time-left-Hp1')
 
-const birthday = new Date('07/11/2022')
+const birthday = new Date('07/29/2022')
 const second = 1000
 const minute = second * 60
 const hour = minute * 60
