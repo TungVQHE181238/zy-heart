@@ -1,28 +1,38 @@
+#neon {
+	text-align: center;
+	font-family: 'Newsreader', serif;
+	color: #133337;
+	font-size: 75px;
+	margin-left: 17px;
+}
+
 #time-left {
-	margin-top: 205px;
+	margin-top: 65px;
+	margin-bottom: 496px;
 	color:  white;
 	text-align: center;
 	font-family: 'Lora', serif;
-	font-size: 4em;
+	font-size: 57px;
 	font-weight: bold;
 }
 
 #time-left-Hp{
-	margin-top: 205px;
+	margin-top: -222px;
+	margin-bottom: 356px;
 	color: #f0fd1f;
 	text-align: center;
 	font-family: 'Lora', serif;
 	font-size: 56px;
 	font-weight: lighter;
-	margin-left: 88px;
+	margin-left: 76px;
 	margin-right: 88px;
 }
 
 #time-left-Hp1 {
-	margin-top: 205px;
+	margin-top: -141px;
 	margin-left: 88px;
 	margin-right: 88px;
-	margin-bottom: 246px;
+	margin-bottom: 209px;
 	color: #f0fd1f;
 	text-align: center;
 	font-family: 'Lora', serif;
