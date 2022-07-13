@@ -1,7 +1,6 @@
 const timeLeft = document.getElementById('time-left')
 const timeLeftHp = document.getElementById('time-left-Hp')
 const timeLeftHp1 = document.getElementById('time-left-Hp1')
-const timeLeftHp2 = document.getElementsByTagName('neon')
 
 const birthday = new Date('07/29/2022')
 const second = 1000

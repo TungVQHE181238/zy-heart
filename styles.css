@@ -53,7 +53,7 @@
     background-image: url(https://dunghm98.github.io/img/puung3.jpg);
     background-size: cover;
     background-position: 50%;
-    -webkit-filter: blur(2px);
+    -webkit-filter: blur(4px);
 }
 
 h2 {
@@ -68,7 +68,7 @@ h2 {
 #text {
 	margin-left: 104px;
 	margin-right: 104px;
-	color:#fefdb0;
+	color:##fcf4e0;
 	font-size:15px;
 	font-family:'Courier New', monospace;
 }
