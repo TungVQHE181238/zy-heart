@@ -53,7 +53,7 @@
     background-image: url(https://dunghm98.github.io/img/puung3.jpg);
     background-size: cover;
     background-position: 50%;
-    -webkit-filter: blur(4px);
+    -webkit-filter: blur(2px);
 }
 
 h2 {
