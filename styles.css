@@ -57,18 +57,23 @@
 }
 
 h2 {
-	margin-bottom: 13px;
-	margin-top: 170px;
-	text-align: center;
+	position: absolute;
+	bottom: 25px;
+	left: 416px;
+	right: 0;
 	font-family: 'Oswald', sans-serif;
 	font-size: 2em;
 	color:#fefdb0;
 }
 
 #text {
-	margin-left: 104px;
-	margin-right: 104px;
-	color:##fcf4e0;
+	position: absolute;
+	bottom: 0px;
+	
+	color:#fcf4e0;
 	font-size:15px;
-	font-family:'Courier New', monospace;
+	font-family:
+	'Courier New', monospace;
+	margin-left: 185px;
+	margin-right: 185px;
 }
