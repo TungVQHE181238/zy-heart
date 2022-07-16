@@ -56,13 +56,13 @@
     -webkit-filter: blur(2px);
 }
 
-h2 {
+.credit {
 	position: absolute;
-	bottom: 37px;
-	left: 408px;
+	bottom: 28px;
+	left: 383px;
 	right: 0;
 	font-family: 'Oswald', sans-serif;
-	font-size: 2em;
+	font-size: 25px;
 	color:#fefdb0;
 }
 
@@ -76,4 +76,23 @@ h2 {
 	'Courier New', monospace;
 	margin-left: 185px;
 	margin-right: 185px;
+}
+@media screen and (max-width: 413px),
+	   screen and (max-height: 735px) {
+		.credit {
+			bottom: 43px;
+			left: 248px;
+			font-size: 25px;
+		}
+}
+@media screen and (min-width:1024px) {
+	.credit {
+		position: absolute;
+		bottom: 28px;
+		left: 383px;
+		right: 0;
+		font-family: 'Oswald', sans-serif;
+		font-size: 25px;
+		color:#fefdb0;
+	}	
 }
