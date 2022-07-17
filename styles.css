@@ -9,7 +9,7 @@
 #time-left {
 	position: absolute;
 	bottom: 231px;
-	left: 228px;
+	left: 266px;
 	color:  white;
 	text-align: center;
 	font-family: 'Lora', serif;
@@ -126,6 +126,6 @@
 	#time-left{
 		position: absolute;
 		bottom: 231px;
-		left: 228px;
+		left: 266px;
 	}
 }
