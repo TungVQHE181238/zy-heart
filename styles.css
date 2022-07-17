@@ -17,8 +17,9 @@
 }
 
 #time-left-Hp{
-	margin-top: -222px;
-	margin-bottom: 356px;
+	position: absolute;
+	bottom: 194px;
+	left: 35px;
 	color: #f0fd1f;
 	text-align: center;
 	font-family: 'Lora', serif;
@@ -29,10 +30,9 @@
 }
 
 #time-left-Hp1 {
-	margin-top: -141px;
-	margin-left: 88px;
-	margin-right: 88px;
-	margin-bottom: 209px;
+	position: absolute;
+	bottom: 268px;
+	left: 140px;
 	color: #f0fd1f;
 	text-align: center;
 	font-family: 'Lora', serif;
@@ -84,6 +84,17 @@
 			left: 248px;
 			font-size: 25px;
 		}
+		#time-left-Hp{
+			position: absolute;
+			bottom: 136px;
+			left: 29px;
+		}
+		#time-left-Hp1{
+			position: absolute;
+    		bottom: 123px;
+    		left: 23px;
+			font-size: 62px;
+		}
 }
 @media screen and (min-width:1024px) {
 	.credit {
@@ -94,5 +105,16 @@
 		font-family: 'Oswald', sans-serif;
 		font-size: 25px;
 		color:#fefdb0;
+	}
+	#time-left-Hp{
+		position: absolute;
+    	bottom: 194px;
+    	left: 35px;
+	}
+	#time-left-Hp1{
+		position: absolute;
+		bottom: 268px;
+		left: 140px;
+		font-size: 51px;
 	}	
 }
