@@ -7,8 +7,9 @@
 }
 
 #time-left {
-	margin-top: 65px;
-	margin-bottom: 496px;
+	position: absolute;
+	bottom: 231px;
+	left: 228px;
 	color:  white;
 	text-align: center;
 	font-family: 'Lora', serif;
@@ -95,6 +96,11 @@
     		left: 23px;
 			font-size: 62px;
 		}
+		#time-left{
+			position: absolute;
+			bottom: 162px;
+			left: 109px;
+		}
 }
 @media screen and (min-width:1024px) {
 	.credit {
@@ -117,4 +123,9 @@
 		left: 140px;
 		font-size: 51px;
 	}	
+	#time-left{
+		position: absolute;
+		bottom: 231px;
+		left: 228px;
+	}
 }
