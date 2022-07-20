@@ -9,7 +9,7 @@
 #time-left {
 	position: absolute;
 	bottom: 231px;
-	left: 266px;
+	left: 228px;
 	color:  white;
 	text-align: center;
 	font-family: 'Lora', serif;
@@ -142,9 +142,8 @@
 	}	
 	#time-left{
 		position: absolute;
-		bottom: 417px;
-		left: 376px;
-		font-size: 80px;
+		bottom: 231px;
+		left: 228px;
 	}
 }
 #neon{
