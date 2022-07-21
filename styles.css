@@ -1,4 +1,4 @@
-#neon {
+.neon {
 	text-align: center;
 	font-family: 'Newsreader', serif;
 	color: #133337;
@@ -77,4 +77,33 @@
 	'Courier New', monospace;
 	margin-left: 185px;
 	margin-right: 185px;
+}
+@media only screen and (max-width: 1000px){
+	#time-left{
+		bottom: 168px;
+    	left: 106px;
+	}
+	.credit{
+		bottom: 37px;
+		left: 262px;
+	}
+}
+
+@media only screen and (min-width: 1919px){
+	.neon{
+		font-size: 107px;
+	}
+	#time-left{
+		bottom: 431px;
+		left: 421px;
+		font-size: 75px;
+	}
+	.credit{
+		left: 609px;
+		bottom: 47px;
+		font-size: 34px;
+	}
+	#text{
+		font-size: 26px;
+	}
 }
