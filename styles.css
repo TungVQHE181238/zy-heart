@@ -87,6 +87,16 @@
 		bottom: 37px;
 		left: 262px;
 	}
+	#time-left-Hp1{
+		margin-left: 35px;
+		margin-right: 35px;
+		font-size: 48px;
+		bottom: 133px;
+		left: 8px;
+	}
+	#time-left-Hp{
+		bottom: 130px;
+	}
 }
 
 @media only screen and (min-width: 1919px){
@@ -105,5 +115,14 @@
 	}
 	#text{
 		font-size: 26px;
+	}
+	#time-left-Hp1{
+		bottom: 309px;
+		left: 127px;
+		font-size: 83px;
+	}
+	#time-left-Hp{
+		font-size: 78px;
+		bottom: 330px;
 	}
 }
